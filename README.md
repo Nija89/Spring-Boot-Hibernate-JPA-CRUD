@@ -23,7 +23,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application using Hibernate
 2. Navigate to the project directory:
 
     ```bash
-    cd crud-demo-hibernate
+    cd Spring-Boot-Hibernate-JPA-CRUD
 3. Install dependencies:
 
     ```bash
