@@ -31,7 +31,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application using Hibernate
 4. Run the application:
 
     ```bash
-mvn spring-boot:run
+    mvn spring-boot:run
 
 ## Console Output
 All CRUD operations are visible in the console, where you will see output for:
