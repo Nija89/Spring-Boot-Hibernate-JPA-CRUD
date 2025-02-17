@@ -19,7 +19,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application using Hibernate
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/crud-demo-hibernate.git
+   https://github.com/Nija89/Spring-Boot-Hibernate-JPA-CRUD
 2. Navigate to the project directory:
 
     ```bash
